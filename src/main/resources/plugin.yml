@@ -1,0 +1,5 @@
+name: Packetszzzz
+version: '${version}'
+main: me.tulio.packetszzzz.Main
+load: STARTUP
+authors: [ TulioTriste ]
